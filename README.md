@@ -12,6 +12,9 @@ This project analyzes the sentiment of tweets or text (Positive, Negative, Neutr
 - Modular project structure (train, inference, UI)
 
 ---
+<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/72cc5f29-868f-42dd-99ed-40ab0bc98894" />
+
+
 
 ## Project Structure
 Twitter-Sentiment-Analyzer/
@@ -93,3 +96,4 @@ Author
 
 Vaibhav Pandey
 GitHub: Vaibhavpandey007
+
